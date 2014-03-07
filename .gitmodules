@@ -1,0 +1,21 @@
+[submodule "tmlib.js"]
+	path = tmlib.js
+	url = git@github.com:phi-jp/tmlib.js.git
+[submodule "tmlib.jsx"]
+	path = tmlib.jsx
+	url = git@github.com:phi-jp/tmlib.jsx.git
+[submodule "tmlib.ts"]
+	path = tmlib.ts
+	url = git@github.com:phi-jp/tmlib.ts.git
+[submodule "tmlib.mml.js"]
+	path = tmlib.mml.js
+	url = git@github.com:phi-jp/tmlib.mml.js.git
+[submodule "tmlib.native.js"]
+	path = tmlib.native.js
+	url = git@github.com:phi-jp/tmlib.native.js.git
+[submodule "tmlib.novel.js"]
+	path = tmlib.novel.js
+	url = git@github.com:phi-jp/tmlib.novel.js.git
+[submodule "tmlib.spine.js"]
+	path = tmlib.spine.js
+	url = git@github.com:phi-jp/tmlib.spine.js.git
