@@ -19,3 +19,6 @@
 [submodule "tmlib.spine.js"]
 	path = tmlib.spine.js
 	url = git@github.com:phi-jp/tmlib.spine.js.git
+[submodule "tmlib.flash.js"]
+	path = tmlib.flash.js
+	url = git@github.com:phi-jp/tmlib.flash.js.git
