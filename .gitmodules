@@ -22,3 +22,6 @@
 [submodule "tmlib.flash.js"]
 	path = tmlib.flash.js
 	url = git@github.com:phi-jp/tmlib.flash.js.git
+[submodule "tmlib.box2d.js"]
+	path = tmlib.box2d.js
+	url = git@github.com:phi-jp/tmlib.box2d.js.git
