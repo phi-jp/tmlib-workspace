@@ -25,3 +25,6 @@
 [submodule "tmlib.box2d.js"]
 	path = tmlib.box2d.js
 	url = git@github.com:phi-jp/tmlib.box2d.js.git
+[submodule "tmlib.ssplayer.js"]
+	path = tmlib.ssplayer.js
+	url = git@github.com:phi-jp/tmlib.ssplayer.js.git
